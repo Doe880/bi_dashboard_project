@@ -1,0 +1,10 @@
+
+---
+
+# `.gitignore`
+
+```gitignore
+.venv/
+__pycache__/
+.idea/
+.streamlit/secrets.toml
